@@ -1,4 +1,3 @@
-
 {
   "@graph" : [ {
     "@id" : "http://dbpedia.org/resource/New_York_City",
@@ -217,3 +216,4 @@
     "pto" : "http://www.productontology.org/id/",
     "dcterms" : "http://purl.org/dc/terms/"
   }
+}
