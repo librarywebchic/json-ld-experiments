@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "genont": "http://www.w3.org/2006/gen/ont#",
+    "wdrs": "http://www.w3.org/2007/05/powder-s#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "library": "http://purl.org/library/",
+    "void": "http://rdfs.org/ns/void#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "bgn": "http://bibliograph.net/",
+    "pto": "http://www.productontology.org/id/",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "@type": "genont:InformationResource",
+  "schema:about": "schema:CreativeWork"
+}
