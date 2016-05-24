@@ -1,0 +1,7 @@
+{"@context": {
+    "schema": "http://schema.org/",
+    "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+ "@type": "schema:ProfilePage",
+ "schema:about": "schema:Person"
+}

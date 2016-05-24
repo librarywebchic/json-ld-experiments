@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "schema": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "http://www.worldcat.org/identities/lccn-n2008026273",
+      "@type": "schema:Person",
+      "schema:knows": [
+        {
+          "@id": "http://worldcat.org/identities/lccn-n2010059828"
+        },
+        {
+          "@id": "http://worldcat.org/identities/lccn-n2008026275"
+        },
+        {
+          "@id": "http://worldcat.org/identities/lccn-no2004059638"
+        },
+        {
+          "@id": "http://worldcat.org/identities/np-murphy, joseph"
+        },
+        {
+          "@id": "http://worldcat.org/identities/np-hewling, anne"
+        },
+        {
+          "@id": "http://worldcat.org/identities/lccn-nb2014003817"
+        },
+        {
+          "@id": "http://worldcat.org/identities/lccn-n2003117361"
+        },
+        {
+          "@id": "http://worldcat.org/identities/np-geng, hongxing"
+        },
+        {
+          "@id": "http://worldcat.org/identities/np-godwin, peter"
+        },
+        {
+          "@id": "http://worldcat.org/identities/np-babbar, parveen"
+        }
+      ],
+      "schema:name": "Coombs, Karen A. ",
+      "schema:sameAs": [
+        {
+          "@id": "http://id.loc.gov/authorities/names/n2008026273"
+        },
+        {
+          "@id": "http://viaf.org/viaf/75785466"
+        }
+      ]
+    },
+    {
+      "@id": "http://www.worldcat.org/identities/lccn-n2008026273/",
+      "@type": "schema:ProfilePage",
+      "schema:about": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "http://www.w3.org/ns/rdfa#usesVocabulary": {
+        "@id": "http://schema.org/"
+      }
+    },
+    {
+      "@id": "http://www.worldcat.org/oclc/179793524",
+      "@type": "schema:CreativeWork",
+      "schema:author": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "schema:contributor": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "schema:datePublished": "2008",
+      "schema:description": "Thinking of setting up a blog for your school, academic, or public library? This book is for you! Learn all about the blogosphere\n                              and its place in your library. Learn the nitty gritty of setting up and hosting your library blog. Find out just what you\n                              need in hardware and software to make your blog work like a charm. See examples of groundbreaking uses for your library blog!\n                              Library Blogging is an overview of the world of blogs in libraries, including both use and technological discussions. These\n                              technology gurus bring you the \"why's\" of using a blog in a library context, the strengths of using blogs, and the actual\n                              how-to information. The book will gives an overview of the different options available for a library blog, the appropriateness\n                              of each option, and the possibilities of each program or service. This is all the information you need on the topic of library\n                              blogging",
+      "schema:inLanguage": "English",
+      "schema:name": "Library blogging",
+      "schema:url": {
+        "@id": "http://www.worldcat.org/oclc/179793524"
+      }
+    },
+    {
+      "@id": "http://www.worldcat.org/oclc/664519499",
+      "@type": "schema:CreativeWork",
+      "schema:author": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "schema:contributor": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "schema:datePublished": "2010",
+      "schema:description": "Interest in open source software has never been stronger, yet a general lack of information about specific tools and benefits-along\n                              with nagging concerns about dependability and support-has hampered adoption in libraries. In Open Source Web Applications\n                              for Libraries, authors Coombs and Hollister address these issues and provide librarians with guidance on a range of applications\n                              that can be used to improve reference services, instruction, and outreach to library users",
+      "schema:inLanguage": [
+        "English",
+        "Undetermined"
+      ],
+      "schema:name": "Open source Web applications for libraries",
+      "schema:url": {
+        "@id": "http://www.worldcat.org/oclc/664519499"
+      }
+    },
+    {
+      "@id": "http://www.worldcat.org/oclc/927029166",
+      "@type": "schema:CreativeWork",
+      "schema:author": {
+        "@id": "http://www.worldcat.org/identities/viaf-155242250"
+      },
+      "schema:contributor": {
+        "@id": "http://www.worldcat.org/identities/lccn-n2008026273"
+      },
+      "schema:datePublished": "2010",
+      "schema:description": "Based on the proceedings of the Second International M-Libraries Conference held in Vancouver, this new collection of contributions\n                              from authorities in the field serves to demonstrate the ingenuity and creativity of developers and service providers in this\n                              area, ranging from innovative application of basic mobile phone technology to provide information services in remote parts\n                              of the globe lacking internet access, to the development of new tools and technologies which harness the full functionality\n                              of popular mobile phones. [Back cover]",
+      "schema:inLanguage": "English",
+      "schema:name": "M-libraries 2 : a virtual library in everyone's pocket",
+      "schema:url": {
+        "@id": "http://www.worldcat.org/oclc/927029166"
+      }
+    }
+  ]
+}
