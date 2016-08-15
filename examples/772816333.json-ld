@@ -1,0 +1,307 @@
+{
+  "@graph" : [ {
+    "@id" : "http://dewey.info/class/782.28/e22/",
+    "@type" : "schema:Intangible"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/adeste_fideles",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/wade_john_francis_1711_or_1712_1786",
+    "name" : "Adeste fideles."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/alleluia",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/thompson_randall_1899_1984",
+    "name" : "Alleluia."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/als_ich_bei_meinen_schafen_wacht",
+    "@type" : "schema:CreativeWork",
+    "name" : "Als ich bei meinen Schafen wacht."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/ave_maria",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/biebl_franz",
+    "name" : "Ave Maria."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/carol_anthems",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://viaf.org/viaf/59269800",
+    "name" : "Carol-anthems."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/carol_of_the_birds",
+    "@type" : "schema:CreativeWork",
+    "name" : "Carol of the birds."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/ceremony_of_carols",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://viaf.org/viaf/2655519",
+    "name" : "Ceremony of carols."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/first_nowell",
+    "@type" : "schema:CreativeWork",
+    "name" : "First Nowell."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/hymn_to_the_virgin",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://viaf.org/viaf/2655519",
+    "name" : "Hymn to the Virgin."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/musae_sioniae",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/praetorius_michael_1571_1621",
+    "name" : "Musae Sioniae,"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/musique",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://viaf.org/viaf/71658174",
+    "name" : "Musique."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/o_magnum_mysterium",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/lauridsen_morten_1943",
+    "name" : "O magnum mysterium."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/svete_tikhii",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://viaf.org/viaf/39642484",
+    "name" : "Svete tikhiĭ."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/veni_emmanuel",
+    "@type" : "schema:CreativeWork",
+    "name" : "Veni Emmanuel."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/weihnachts_oratorium",
+    "@type" : "schema:CreativeWork",
+    "creator" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/bach_johann_sebastian_1685_1750",
+    "name" : "Weihnachts-Oratorium."
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/what_is_this_lovely_fragrance",
+    "@type" : "schema:CreativeWork",
+    "name" : "What is this lovely fragrance?"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/bach_johann_sebastian_1685_1750",
+    "@type" : "schema:Person",
+    "birthDate" : "1685",
+    "deathDate" : "1750",
+    "familyName" : "Bach",
+    "givenName" : "Johann Sebastian",
+    "name" : "Johann Sebastian Bach"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/biebl_franz",
+    "@type" : "schema:Person",
+    "familyName" : "Biebl",
+    "givenName" : "Franz",
+    "name" : "Franz Biebl"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/lauridsen_morten_1943",
+    "@type" : "schema:Person",
+    "birthDate" : "1943",
+    "familyName" : "Lauridsen",
+    "givenName" : "Morten",
+    "name" : "Morten Lauridsen"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/mackenzie_norman_pianist",
+    "@type" : "schema:Person",
+    "familyName" : "Mackenzie",
+    "givenName" : "Norman",
+    "name" : "(Pianist) Norman Mackenzie"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/praetorius_michael_1571_1621",
+    "@type" : "schema:Person",
+    "birthDate" : "1571",
+    "deathDate" : "1621",
+    "familyName" : "Praetorius",
+    "givenName" : "Michael",
+    "name" : "Michael Praetorius"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/thompson_randall_1899_1984",
+    "@type" : "schema:Person",
+    "birthDate" : "1899",
+    "deathDate" : "1984",
+    "familyName" : "Thompson",
+    "givenName" : "Randall",
+    "name" : "Randall Thompson"
+  }, {
+    "@id" : "http://experiment.worldcat.org/entity/work/data/772816333#Person/wade_john_francis_1711_or_1712_1786",
+    "@type" : "schema:Person",
+    "birthDate" : "1711 or 1712",
+    "deathDate" : "1786",
+    "familyName" : "Wade",
+    "givenName" : "John Francis",
+    "name" : "John Francis Wade"
+  }, {
+    "@id" : "http://id.loc.gov/authorities/classification/M2065",
+    "@type" : "schema:Intangible"
+  }, {
+    "@id" : "http://id.loc.gov/vocabulary/countries/ohu",
+    "@type" : "schema:Place",
+    "identifier" : "ohu"
+  }, {
+    "@id" : "http://id.worldcat.org/fast/847722",
+    "@type" : "schema:Intangible",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Carols"
+    }
+  }, {
+    "@id" : "http://id.worldcat.org/fast/858708",
+    "@type" : "schema:Intangible",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Choruses, Sacred (Mixed voices)"
+    }
+  }, {
+    "@id" : "http://id.worldcat.org/fast/858759",
+    "@type" : "schema:Intangible",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Choruses, Sacred (Women's voices, 3 parts) with harp"
+    }
+  }, {
+    "@id" : "http://id.worldcat.org/fast/859831",
+    "@type" : "schema:Intangible",
+    "name" : {
+      "@language" : "en",
+      "@value" : "Christmas music"
+    }
+  }, {
+    "@id" : "http://viaf.org/viaf/121139774",
+    "@type" : "schema:Organization",
+    "name" : "Robert Shaw Chamber Singers,"
+  }, {
+    "@id" : "http://viaf.org/viaf/2655519",
+    "@type" : "schema:Person",
+    "birthDate" : "1913",
+    "deathDate" : "1976",
+    "familyName" : "Britten",
+    "givenName" : "Benjamin",
+    "name" : "Benjamin Britten"
+  }, {
+    "@id" : "http://viaf.org/viaf/39642484",
+    "@type" : "schema:Person",
+    "birthDate" : "1854",
+    "deathDate" : "1911",
+    "familyName" : "Kopylov",
+    "givenName" : "Aleksandr Aleksandrovich",
+    "name" : "Aleksandr Aleksandrovich Kopylov"
+  }, {
+    "@id" : "http://viaf.org/viaf/42029843",
+    "@type" : "schema:Person",
+    "birthDate" : "1916",
+    "deathDate" : "1999,",
+    "familyName" : "Shaw",
+    "givenName" : "Robert",
+    "name" : "Robert Shaw"
+  }, {
+    "@id" : "http://viaf.org/viaf/59269800",
+    "@type" : "schema:Person",
+    "birthDate" : "1892",
+    "deathDate" : "1983",
+    "familyName" : "Howells",
+    "givenName" : "Herbert",
+    "name" : "Herbert Howells"
+  }, {
+    "@id" : "http://viaf.org/viaf/71658174",
+    "@type" : "schema:Person",
+    "birthDate" : "1530?",
+    "deathDate" : "1606",
+    "familyName" : "Costeley",
+    "givenName" : "Guillaume",
+    "name" : "Guillaume Costeley"
+  }, {
+    "@id" : "http://www.worldcat.org/oclc/38027615",
+    "@type" : [ "bgn:CD", "schema:MusicAlbum", "schema:CreativeWork" ],
+    "oclcnum" : "38027615",
+    "placeOfPublication" : "http://id.loc.gov/vocabulary/countries/ohu",
+    "about" : [ "http://id.worldcat.org/fast/847722", "http://id.worldcat.org/fast/858759", "http://dewey.info/class/782.28/e22/", "http://id.worldcat.org/fast/858708", "http://id.loc.gov/authorities/classification/M2065", "http://id.worldcat.org/fast/859831" ],
+    "alternateName" : "Angels on high",
+    "contributor" : [ "http://viaf.org/viaf/59269800", "http://experiment.worldcat.org/entity/work/data/772816333#Person/bach_johann_sebastian_1685_1750", "http://experiment.worldcat.org/entity/work/data/772816333#Person/praetorius_michael_1571_1621", "http://viaf.org/viaf/42029843", "http://experiment.worldcat.org/entity/work/data/772816333#Person/lauridsen_morten_1943", "http://viaf.org/viaf/71658174", "http://viaf.org/viaf/2655519", "http://experiment.worldcat.org/entity/work/data/772816333#Person/biebl_franz", "http://viaf.org/viaf/39642484", "http://experiment.worldcat.org/entity/work/data/772816333#Person/wade_john_francis_1711_or_1712_1786", "http://experiment.worldcat.org/entity/work/data/772816333#Person/thompson_randall_1899_1984" ],
+    "datePublished" : "1997",
+    "description" : {
+      "@language" : "en",
+      "@value" : "O come Emmanuel : plainsong / arranged Alice Parker (William Wilder, percussion) (2:44) -- Alleluia / Randall Thompson (4:52) -- The first Nowell : English carol / arranged Robert Shaw, Alice Parker (1:39) -- The carol of the birds : Spanish carol / arranged Robert Shaw, Alice Parker ; English text by Kurt Schindler and Deems Taylor (Janice Chandler, soprano) (3:59) -- Allon, gay bergères / Guillaume Costeley ; edition Robert Shaw, Alice Parker (Donna Carter, soprano ; Pamela Elrod, mezzo-soprano ; Frank Timmerman, tenor ; William Borland, bass) (1:40) -- A hymn to the Virgin / Benjamin Britten ; poem anon., circa 1300 (Donna Carter, soprano ; Nannette Soles, alto ; Sean Mayer, tenor ; Charles Sprawls, bass) (3:31) -- O magnum mysterium / Morten Lauridsen (6:13) -- Rejoice and sing : from \"Christmas oratorio\" / J.S. Bach ; edition Robert Shaw ; English version anon., edition Shaw ( :50) -- Ave Maria (Angelus Domini) / Franz Biebl (Nannette Soles, alto ; Sean Mayer, tenor ; Charles Sprawls, bass) (5:21) -- What is this lovely fragrance? : old French carol / arranged Healy Willan ; English version by Ysobel, edition Shaw (3:42) -- Lo, how a rose e'er blooming / Michael Praetorius ; edition Robert Shaw, Alice Parker (1:21) -- Sing lullaby / Herbert Howells ; poem by F.W. Harvey (2:59) -- While by my sheep : German carol / arranged Hugo Jüngst ; English version by Helen A. Dickinson, edition Shaw (Patricia Nealon, Anne-Marie Spalinger, sopranos ; Katherine Murray, Nannette Soles, altos ; David Blalock, Frank Timmerman, tenors ; William Borland, Charles Sprawls, basses) (1:24) -- Break forth, O wondrous heavenly light : from Christmas oratorio / J.S. Bach ; edition Robert Shaw, Alice Parker ; English version by Robert Shaw (1:08) -- Heavenly light / Alexander Kopylov ; arranged Peter J. Wilhousky ; English text by Alice Mattullath (2:56) -- Adeste fideles / arranged Alice Parker (3:51) -- Ceremony of carols. Procession ; Wolcum Yole! ; There is no rose ; That yongë child ; Balulalow ; As dew in Aprille ; This little babe ; Interlude : harp solo ; In freezing winter night ; Spring carol ; Deo gracias ; Recession / Benjamin Britten (Janice Chandler, soprano ; Nannette Soles, mezzo-soprano ; Elisabeth Remy, harp) (22:08)."
+    },
+    "exampleOfWork" : "http://worldcat.org/entity/work/id/772816333",
+    "hasPart" : [ "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/first_nowell", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/carol_of_the_birds", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/veni_emmanuel", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/what_is_this_lovely_fragrance", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/als_ich_bei_meinen_schafen_wacht" ],
+    "inLanguage" : "en",
+    "name" : {
+      "@language" : "en",
+      "@value" : "A Robert Shaw Christmas : angels on high."
+    },
+    "performer" : [ "http://experiment.worldcat.org/entity/work/data/772816333#Person/mackenzie_norman_pianist", "http://viaf.org/viaf/121139774" ],
+    "productID" : "38027615",
+    "seeAlso" : [ "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/musae_sioniae", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/hymn_to_the_virgin", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/musique", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/weihnachts_oratorium", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/alleluia", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/carol_anthems", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/ave_maria", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/o_magnum_mysterium", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/adeste_fideles", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/svete_tikhii", "http://experiment.worldcat.org/entity/work/data/772816333#CreativeWork/ceremony_of_carols" ],
+    "describedby" : "http://www.worldcat.org/title/-/oclc/38027615"
+  }, {
+    "@id" : "http://www.worldcat.org/title/-/oclc/38027615",
+    "@type" : [ "genont:ContentTypeGenericResource", "genont:InformationResource" ],
+    "inDataset" : "http://purl.oclc.org/dataset/WorldCat",
+    "about" : "http://www.worldcat.org/oclc/38027615",
+    "dateModified" : "2016-05-10"
+  } ],
+  "@context" : {
+    "name" : "http://schema.org/name",
+    "creator" : {
+      "@id" : "http://schema.org/creator",
+      "@type" : "@id"
+    },
+    "familyName" : "http://schema.org/familyName",
+    "givenName" : "http://schema.org/givenName",
+    "birthDate" : "http://schema.org/birthDate",
+    "deathDate" : "http://schema.org/deathDate",
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+      "@type" : "@id"
+    },
+    "about" : {
+      "@id" : "http://schema.org/about",
+      "@type" : "@id"
+    },
+    "datePublished" : "http://schema.org/datePublished",
+    "exampleOfWork" : {
+      "@id" : "http://schema.org/exampleOfWork",
+      "@type" : "@id"
+    },
+    "hasPart" : {
+      "@id" : "http://schema.org/hasPart",
+      "@type" : "@id"
+    },
+    "placeOfPublication" : {
+      "@id" : "http://purl.org/library/placeOfPublication",
+      "@type" : "@id"
+    },
+    "contributor" : {
+      "@id" : "http://schema.org/contributor",
+      "@type" : "@id"
+    },
+    "performer" : {
+      "@id" : "http://schema.org/performer",
+      "@type" : "@id"
+    },
+    "oclcnum" : "http://purl.org/library/oclcnum",
+    "description" : "http://schema.org/description",
+    "inLanguage" : "http://schema.org/inLanguage",
+    "describedby" : {
+      "@id" : "http://www.w3.org/2007/05/powder-s#describedby",
+      "@type" : "@id"
+    },
+    "productID" : "http://schema.org/productID",
+    "alternateName" : "http://schema.org/alternateName",
+    "identifier" : "http://purl.org/dc/terms/identifier",
+    "dateModified" : "http://schema.org/dateModified",
+    "inDataset" : {
+      "@id" : "http://rdfs.org/ns/void#inDataset",
+      "@type" : "@id"
+    },
+    "schema" : "http://schema.org/",
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "genont" : "http://www.w3.org/2006/gen/ont#",
+    "wdrs" : "http://www.w3.org/2007/05/powder-s#",
+    "xsd" : "http://www.w3.org/2001/XMLSchema#",
+    "library" : "http://purl.org/library/",
+    "void" : "http://rdfs.org/ns/void#",
+    "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "bgn" : "http://bibliograph.net/",
+    "pto" : "http://www.productontology.org/id/",
+    "dcterms" : "http://purl.org/dc/terms/"
+  }
+}
